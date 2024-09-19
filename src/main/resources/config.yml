@@ -1,0 +1,16 @@
+twitch:
+  notification_title: "Now Live!"
+  check_interval: 60  # in seconds
+  APIClientID: "YOUR_TWITCH_CLIENT_ID"
+  TwitchAccessToken: "YOUR_TWITCH_ACCESS_TOKEN"
+  streamers:
+    - streamer_name: "streamer"
+      streamer_showed_name: "Streamer"
+      notification_type: "title"  # or "chat"
+      notification_text: "is live on Twitch!"
+      played_sound: "ENTITY_PLAYER_LEVELUP"
+    - streamer_name: "otherstreamer"
+      streamer_showed_name: "OtherStreamer"
+      notification_type: "chat"
+      notification_text: "is live on Twitch!"
+      played_sound: "ENTITY_PLAYER_LEVELUP"

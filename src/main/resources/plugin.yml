@@ -1,0 +1,5 @@
+name: isstreamerlive
+version: '1.0'
+main: org.cptgummiball.isstreamerlive.Main
+api-version: '1.20'
+authors: [ cptgummiball ]
