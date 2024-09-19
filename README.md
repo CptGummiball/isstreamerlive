@@ -16,7 +16,7 @@ Notifies players when they join if a streamer is currently live.
 ## Requirements
 - Spigot 1.20.4 or higher
 - Java 17 or higher
-- A Twitch Developer account for Client ID and Access Token
+- A Twitch Developer account for Client ID and [Access Token](GetToken.md)
 
 ## Installation
 Download the plugin JAR file and place it in your Minecraft server's plugins folder.
